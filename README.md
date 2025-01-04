@@ -12,7 +12,7 @@ Dataset<br/>
 We will use a standard binary classification dataset such as the Breast Cancer dataset from sklearn:<br/>
 
 from sklearn.datasets import load_breast_cancer
-data = load_breast_cancer()<br/>.
+data = load_breast_cancer().<br/>
 
 STEPS<br/>
 
